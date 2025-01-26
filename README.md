@@ -69,6 +69,15 @@ Blended Visual Beats is a data visualization project that uses Spotify data to c
 
 ---
 
+## **Image Gallery**
+![image](https://github.com/user-attachments/assets/e9a4a6d6-5934-445b-b640-181710843395)
+
+![image](https://github.com/user-attachments/assets/84864e6c-ea66-4d7b-8599-fd949eb23804)
+
+![image](https://github.com/user-attachments/assets/fc87b30f-13c5-43bc-a74b-cf181cc132f1)
+
+---
+
 ## **Contributors**
 - **Gandhar Ravindra Pansare**
 - **Rutuja Jangle**
